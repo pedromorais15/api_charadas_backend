@@ -44,7 +44,7 @@ def root():
     return jsonify({
         "api": "Charadas",
         "version": "1.0",
-        "autor": "Joaquim"
+        "autor": "Pedro V"
     }), 200
 
 
